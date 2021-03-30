@@ -1,8 +1,103 @@
-# Cosmos Bot [![Patreon][badge-patreon]][link-patreon] [![Discord][badge-discord]][link-discord] ![badge-reposize]
+# Cosmos Bot
 
-[badge-patreon]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2FNingamer&label=Patreon&logoColor=white&style=flat-square
-[badge-discord]: https://img.shields.io/discord/574569573458771968?color=7289da&label=Discord%20Server&logo=discord&logoColor=white&style=flat-square
-[badge-reposize]: https://img.shields.io/github/repo-size/MarioSilvaGH/Cosmos-Bot?color=black&label=Repo%20Size&logo=github&logoColor=white&style=flat-square
+A bot originally made for Super Mario Network discord server.
 
-[link-patreon]: https://www.patreon.com/ningamer
-[link-discord]: https://discord.gg/wZGW8DZ
+## Command list
+
+The default prefix is ``c.``
+
+#### :gear: UTILITY
++ ``help``
++ ``ping``
++ ``invite``
++ ``member @profile``
+
+:inbox_tray: DOWNLOADS
++ ``download @title``
++ Titles:
+	+ ``2DUniverse``
+	+ ``UniMaker``
+	+ ``Ninty``
+
+#### :star: QUOTE
++ ``quote Character, Text``
++ Characters:
+	+ ``Mario``
+	+ ``Luigi``
+	+ ``Peach``
+	+ ``Daisy``
+	+ ``Rosalina``
+	+ ``Yoshi``
+	+ ``Toad``
+	+ ``Toadette``
+	+ ``Toadsworth`` 
+	+ ``Elvin``
+	+ ``Cranky``
+	+ ``Wario``
+	+ ``Waluigi``
+	+ ``Pauline``
+	+ ``Cappy``
+	+ ``Bowser``
+	+ ``BowserJr``
+	+ ``DryBowser``
+	+ ``ShyGuy``
+	+ ``Geno``
+	+ ``Shigeru``
+
+#### :joystick: BOX ARTS
++ ``boxart Console, Attachment/URL``
++ Consoles:
+	+ ``Switch``
+	+ ``WiiU``
+	+ ``Wii``
+	+ ``GameCube``
+	+ ``N64``
+	+ ``SNES``
+	+ ``3DS``
+	+ ``DS``
+	+ ``GBA``
+	+ ``GBC``
+	+ ``GameBoy``
+	+ ``3DSDark``
+	+ ``WiiUDark``
+	+ ``WiiRed``
+	+ ``N64eu``
+	+ ``GBAeu``
+	+ ``VirtualBoy``
+	+ ``SuperFamicom``
+
+#### :pencil2: CUSTOM
+> **Note:** You must provide an Attachment/URL in order to use one of these commands.
++ ``mirror``
++ ``parental``
++ ``computer``
++ ``level``
++ ``gun``
+
+#### :file_folder: FILES
++ ``drake``
++ ``arrombados``
++ ``fraga``
++ ``fanfic`` 
++ ``daniru`` 
++ ``canela`` 
++ ``sources``
++ ``mansplaining``
++ ``elvingado``
++ ``massas``
++ ``bitsvoadores``
++ ``fresh``
++ ``mariostar``
++ ``himarck``
+
+#### :speech_balloon: TEXT
++ ``ofensafoda``
++ ``molek``
+=ç~;iolkjuyhgbbn 
+
+## Usage
+
+In order to run this bot you will need [Node.js](https://nodejs.org) with [discord.js](https://discord.js.org) module.
+
+Additional libraries and modules:
+- [jimp](https://github.com/oliver-moran/jimp)
