@@ -93,7 +93,6 @@ The default prefix is ``c.``
 #### :speech_balloon: TEXT
 + ``ofensafoda``
 + ``molek``
-=ç~;iolkjuyhgbbn 
 
 ## Usage
 
